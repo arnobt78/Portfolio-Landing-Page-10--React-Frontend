@@ -1,6 +1,9 @@
 import { skills } from '../data';
 import SectionTitle from './SectionTitle';
 import SkillsCard from './SkillsCard';
+
+// Skills section: id="skills" is the target for #skills in the nav
+// Spread {...skill} passes id, title, icon, text to each SkillsCard
 const Skills = () => {
   return (
     <section className='py-20 align-element ' id='skills'>

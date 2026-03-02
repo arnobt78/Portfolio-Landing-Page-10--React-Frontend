@@ -1,6 +1,7 @@
-import { FaGithubSquare, FaLinkedin, FaTwitterSquare } from 'react-icons/fa';
+import { FaGithubSquare } from 'react-icons/fa';
 import { TbWorldWww } from 'react-icons/tb';
 
+// Single project card: url = live site, github = repo; alt from title for accessibility
 const ProjectsCard = ({ url, img, github, title, text }) => {
   return (
     <article className='bg-white rounded-lg shadow-md hover:shadow-xl duration-300'>

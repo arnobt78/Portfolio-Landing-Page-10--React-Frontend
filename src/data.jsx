@@ -1,6 +1,7 @@
 import { nanoid } from "nanoid";
 import { FaHtml5, FaJs, FaReact } from "react-icons/fa";
 
+// Navigation: anchor targets must match section ids (e.g. #skills -> id="skills")
 export const links = [
   { id: nanoid(), href: "#home", text: "home" },
   { id: nanoid(), href: "#skills", text: "skills" },
@@ -8,6 +9,7 @@ export const links = [
   { id: nanoid(), href: "#projects", text: "projects" },
 ];
 
+// Skills: icon is a React element (JSX); used by SkillsCard
 export const skills = [
   {
     id: nanoid(),
@@ -29,6 +31,7 @@ export const skills = [
   },
 ];
 
+// Projects: img/url/github are strings; consumed by ProjectsCard
 export const projects = [
   {
     id: nanoid(),

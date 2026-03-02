@@ -1,3 +1,4 @@
+// Single skill card: icon is a React element (e.g. from react-icons), title and text are strings
 const SkillsCard = ({ icon, title, text }) => {
   return (
     <article>

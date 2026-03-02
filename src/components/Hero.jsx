@@ -1,12 +1,13 @@
 import heroImg from "../assets/hero.svg";
 import { FaGithubSquare, FaLinkedin, FaTwitterSquare } from "react-icons/fa";
 
+// Hero: intro block + optional illustration; I&apos;m avoids unescaped apostrophe in JSX
 const Hero = () => {
   return (
     <div className="bg-emerald-100 py-24">
       <div className="align-element grid md:grid-cols-2 items-center gap-8">
         <article>
-          <h1 className="text-7xl font-bold tracking-wider">I'm John Doe</h1>
+          <h1 className="text-7xl font-bold tracking-wider">I&apos;m John Doe</h1>
           <p className="mt-4 text-3xl text-slate-700 capitalize tracking-wide">
             Front-End Developer
           </p>
@@ -25,6 +26,7 @@ const Hero = () => {
             </a>
           </div>
         </article>
+        {/* Hero image: hidden on small screens, shown from md breakpoint up */}
         <article className="hidden md:block">
           <img src={heroImg} className="h-80 lg:h-96" />
         </article>

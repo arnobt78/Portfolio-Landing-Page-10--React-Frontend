@@ -1,5 +1,6 @@
 import { links } from '../data';
 
+// Navbar: site branding + anchor links from data.jsx; key={id} required for list items
 const Navbar = () => {
   return (
     <nav className='bg-emerald-100'>
