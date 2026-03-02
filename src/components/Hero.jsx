@@ -9,7 +9,7 @@ const Hero = () => {
         <article>
           <h1 className="text-7xl font-bold tracking-wider">
             I&apos;m
-            <span className="text-emerald-600">John Doe</span>
+            <span className="text-emerald-600"> John Doe</span>
           </h1>
           <p className="mt-4 text-3xl text-slate-700 capitalize tracking-wide">
             Front-End Developer
