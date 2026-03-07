@@ -1,4 +1,4 @@
-# Portfolio Landing Page 10 - React, Vite, TailwindCSS Frontend Project
+# Portfolio Landing Page 10 - React, Vite, JavaScript, TailwindCSS Frontend Project
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18.3.1-blue)](https://react.dev/)
@@ -6,16 +6,14 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4.19-38bdf8)](https://tailwindcss.com/)
 [![ESLint](https://img.shields.io/badge/ESLint-9.15-4b32c3)](https://eslint.org/)
 
-A single-page portfolio site built with React, Vite, and Tailwind CSS. It showcases a front-end developer profile with a hero section, tech stack, about section, and project cards—ideal for learning component composition, responsive layout, and Tailwind utility-first styling.
+A single-page portfolio site built with React, Vite, JavaScript, and Tailwind CSS. It showcases a front-end developer profile with a hero section, tech stack, about section, and project cards—ideal for learning component composition, responsive layout, and Tailwind utility-first styling.
 
 - **Live Demo:** [https://portfolio-ui-10.vercel.app/](https://portfolio-ui-10.vercel.app/)
 
-<img width="1055" alt="Screenshot 2025-02-25 at 16 09 38" src="https://github.com/user-attachments/assets/285d8ead-1fd4-4db6-a062-18146946ced3" />
-<img width="1215" alt="Screenshot 2025-02-25 at 16 09 54" src="https://github.com/user-attachments/assets/dd7e6661-994a-441c-bdba-456ce42a52d6" />
-<img width="1111" alt="Screenshot 2025-02-25 at 16 10 15" src="https://github.com/user-attachments/assets/ab5a7be3-200a-4ec3-b428-f647463c0a38" />
-<img width="1232" alt="Screenshot 2025-02-25 at 16 10 47" src="https://github.com/user-attachments/assets/3461eef8-d4a3-4214-af37-b61323a09c69" />
-
----
+![Screenshot 2025-02-25 at 16 09 38](https://github.com/user-attachments/assets/285d8ead-1fd4-4db6-a062-18146946ced3)
+![Screenshot 2025-02-25 at 16 09 54](https://github.com/user-attachments/assets/dd7e6661-994a-441c-bdba-456ce42a52d6)
+![Screenshot 2025-02-25 at 16 10 15](https://github.com/user-attachments/assets/ab5a7be3-200a-4ec3-b428-f647463c0a38)
+![Screenshot 2025-02-25 at 16 10 47](https://github.com/user-attachments/assets/3461eef8-d4a3-4214-af37-b61323a09c69)
 
 ## Table of Contents
 
